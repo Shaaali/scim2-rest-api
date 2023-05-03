@@ -38,9 +38,9 @@ type UserCreateRequest record {
     string name;
 };
 
-string salesGroupId = "051a8658-6946-48fc-9edf-b4dea92c8f1b";
-string marketingGroupId = "4dfbd183-7adc-4634-9924-b09e95d4979c";
-string defaultGroupId = "642e21eb-5e9b-4d7b-8aa5-858d0c19ee7f";
+string salesGroupId = "5240d584-0fc4-494b-86de-24594e42bce3";
+string marketingGroupId = "d580ae3f-5e26-425d-b706-e2be71c44dcd";
+string defaultGroupId = "05c2c7a2-71e8-4952-b714-abfb11528013";
 
 # A service representing a network-accessible API
 # bound to port `9090`.
